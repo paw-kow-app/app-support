@@ -10,6 +10,8 @@ This folder contains a small static website for App Store submission and future 
 - `apps/corner-bell/legal.html`: Apple Standard EULA and safety information
 
 Support email: `paw.kow.app@icloud.com`
+Publisher: `Pawel Kowalski`
+Project name: `Paw Kow Apps`
 
 Suggested GitHub Pages URLs after hosting the repository as `app-support`:
 
